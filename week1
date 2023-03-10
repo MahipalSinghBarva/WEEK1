@@ -1,7 +1,7 @@
 What is the main functionality of the browser? >> Browser main function is show the content to user from their source code in different format like text, images and video
 High Level Components of a browser >> Networking, user interface, data storage, 
 Rendering engine and its use. >> it's use to convert code into taxt and image then show to sereen 
-Parsers (HTML, CSS, etc) >> 
+Parsers (HTML, CSS, etc) >> Server got a request then browser recive responce to html code now the browswer will be to start parsing the data.
 Script Processors >> 
 Tree constructiong >>
 Order of script processingh >> 
