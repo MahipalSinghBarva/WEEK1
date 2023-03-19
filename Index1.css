@@ -1,0 +1,10 @@
+#div{
+    color: blue;
+    animation-name: slide;
+}
+#div @keyframes slide {
+    to {
+        transform: rotate(20);
+    }
+    
+}
